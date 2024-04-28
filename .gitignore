@@ -399,3 +399,6 @@ FodyWeavers.xsd
 
 # Environment file
 .env
+
+# jupyter notebook checkpoints
+.ipynb_checkpoints
